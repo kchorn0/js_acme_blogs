@@ -1,7 +1,7 @@
 /* Here is where I will start coding */
 
 //Functions start here (with comments)
-
+//Copied from glitch web
 
 // Function #1
 function createElemWithText(elementType = "p", textContent = "", className) {
